@@ -1,0 +1,5 @@
+- source: project
+  netlify:
+    - id: c9e12e10-8982-46d4-bba4-43130aed0c46
+      url: 'https://antiklexos.netlify.app'
+

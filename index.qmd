@@ -1,0 +1,15 @@
+---
+title: "AntiKlexos"
+---
+
+Welcome to the homepage for **AntiKlexos**.
+
+This page is still under construction.
+
+But before you leave, you should know that *antiklexos* is the opposite of *klexos*.
+
+> Klexos is a Greek word that means «fixation on the past.»
+> This here is antiklexos. We represent all that is opposed to this fixation so that you
+> live in a present full of adventure.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
