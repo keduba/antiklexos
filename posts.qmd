@@ -1,0 +1,15 @@
+---
+title: "antiklexos blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+margin-header: subform.html
+title-block-banner: true
+---
+
+

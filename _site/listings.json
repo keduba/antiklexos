@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/theblog/index.html",
+    "items": [
+      "/theblog/posts/post-with-code/index.html",
+      "/theblog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/theblog/posts/post-with-code/index.html",
+      "/posts/post-with-code/index.html",
+      "/theblog/posts/welcome/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
