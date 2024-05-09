@@ -1,15 +1,77 @@
 ---
-title: "AntiKlexos"
+title: "" 
+subtitle: "Turn the chains on your feet to wings on your back"
+description: "Become who you always wanted to be" 
+format:
+  html:
+    toc: false
+about:
+  id: about
+  template: trestles
+  image: "4-blue-sm.png"
+  links:
+    - icon: book
+      text: Blog
+      href: posts.qmd
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-Welcome to the homepage for **AntiKlexos**.
+::: {#about}
 
-This page is still under construction.
-
-But before you leave, you should know that *antiklexos* is the opposite of *klexos*.
+Did you know that *antiklexos* is the opposite of *klexos*.
 
 > Klexos is a Greek word that means «fixation on the past.»
 > This here is antiklexos. We represent all that is opposed to this fixation so that you
 > live in a present full of adventure.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<h3 style="text-align: center;">I'd like to join the workshop waitlist</h3>
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/antiklexos?as_embed=true"
+title="antiKlexos iframe"  
+></iframe><br /><br />
+:::
+
+::: {.text-center}
+## Users say...
+:::
+
+::: {.index-grid}
+
+::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.card-body}
+["Ibis is amazing, there is so much bikeshedding out there that this library
+improves upon. I love that now we can empower any visualization with nearly
+any dataset! Big thanks to those who have contributed!"]{.card-text}
+
+[Nick Shook]{.blockquote-footer}
+:::
+:::
+
+::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.card-body}
+"I now have Ibis code that runs PySpark in my Databricks environment and Polars
+on my laptop which is pretty slick 🔥"
+
+[Mark Druffel]{.blockquote-footer}
+:::
+:::
+
+::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.card-body}
+"I love that with Ibis, I can use SQL for the heavy lifting or aggregations and
+then switch to a dataframe-like API for the type of dynamic transformations that
+would otherwise be tedious to do in pure SQL."
+
+[Daniel Kim]{.blockquote-footer}
+:::
+:::
+
+:::
+

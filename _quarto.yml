@@ -2,13 +2,23 @@ project:
   type: website
 
 website:
-  title: "AntiKlexos"
+  title: "antiKlexos"
+  image: "4-blue-sm.png"
+  favicon: "4-blue.png"
+
   navbar:
+    background: light
+    logo: "4-blue-sm.png"
+    logo-alt: "antiKlexos logo."
+    title: false
+    collapse-below: lg
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "Home"
+      - href: about.qmd
+        text: "Manifesto"
+      - href: posts.qmd
+        text: "Posts"
 format:
   html:
     theme: cosmo
