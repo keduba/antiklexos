@@ -4,7 +4,7 @@ project:
 website:
   title: "antiKlexos"
   image: "4-blue-sm.png"
-  favicon: "4-blue.png"
+  favicon: "4-blue-fav.png"
 
   navbar:
     background: light

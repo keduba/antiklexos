@@ -39,37 +39,41 @@ title="antiKlexos iframe"
 :::
 
 ::: {.text-center}
-## Users say...
+## Let others tell you themselves ...
 :::
 
 ::: {.index-grid}
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.index-g-col-4 .card .border-light .mb-3 .text-start}
 ::: {.card-body}
-["Ibis is amazing, there is so much bikeshedding out there that this library
-improves upon. I love that now we can empower any visualization with nearly
-any dataset! Big thanks to those who have contributed!"]{.card-text}
+["This blew my mind. I didn't realise that it was possible to unravel mental barriers like this. antiKlexos is amazing. I'd have said, "I wish I knew this before" but that would be Klexos. 
+antiKlexos has taught me to say, "Thank God I know this now!"]{.card-text}
 
-[Nick Shook]{.blockquote-footer}
+[Chinnie, Nurse-Administrator]{.blockquote-footer}
 :::
 :::
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.index-g-col-4 .card .border-light .mb-3 .text-justify}
 ::: {.card-body}
-"I now have Ibis code that runs PySpark in my Databricks environment and Polars
-on my laptop which is pretty slick 🔥"
+"I've personally benefitted from his way of questioning things from the reverse and I'm glad to say that I appreciate how he codified it in antiKlexos. It's pretty darn slick! 🔥"
 
-[Mark Druffel]{.blockquote-footer}
+[Manola, PhD Oceanography]{.blockquote-footer}
 :::
 :::
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-center}
+::: {.index-g-col-4 .card .border-light .mb-3 .text-end}
 ::: {.card-body}
-"I love that with Ibis, I can use SQL for the heavy lifting or aggregations and
-then switch to a dataframe-like API for the type of dynamic transformations that
-would otherwise be tedious to do in pure SQL."
+"Now whether you're at home or at work or on retreat on a remote island, antiKlexos provides you a custom way to shed the past and move forward like the child of Light that you are."
 
-[Daniel Kim]{.blockquote-footer}
+[Presh, Strategic Communications]{.blockquote-footer}
+:::
+:::
+
+::: {.index-g-col-4 .card .border-light .mb-3 .text-end}
+::: {.card-body}
+"Trust Kene to track how he overcame his own challenges in such a way that other people can benefit from the same process in the comfort of their own spaces."
+
+[James, Amazon Logistics]{.blockquote-footer}
 :::
 :::
 
