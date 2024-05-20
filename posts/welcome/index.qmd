@@ -1,12 +1,36 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "antiKlexos"
 date: "2024-04-30"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post on the antiKlexos blog. Welcome!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+I just wanted to welcome you if you were going through the website and decided to check out this page.
+
+Please remember to sign up right here. It's very simple and easy. :)
+
+::: {.text-center}
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/antiklexos"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/antiklexos', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <h2 style="text-align: center;">I want to join the waitlist</h2>
+  <label for="bd-email">Email address
+  </label><br> 
+  <input type="email" name="email" id="bd-email" placeholder="you@youremail.com"/>
+  <br><input type="submit" value="Add me up" />
+    <br><p>
+    <a href="https://buttondown.email/refer/antiklexos" target="_blank">❤️from Buttondown.</a>
+  </p>
+</form>
+:::
+
+Cheers!
+
