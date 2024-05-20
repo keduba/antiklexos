@@ -7,21 +7,21 @@ website:
   favicon: "4-blue-fav.png"
 
   navbar:
-    background: light
+    
     logo: "4-blue-sm.png"
     logo-alt: "antiKlexos logo."
     title: false
     collapse-below: lg
-    left:
-      - href: index.qmd
-        text: "Home"
+    right:
       - href: about.qmd
         text: "Manifesto"
       - href: posts.qmd
         text: "Posts"
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+     
     css: styles.css
     toc: true
 

@@ -1,24 +1,40 @@
 ---
-title: "Our creed"
+title: "Our Creed"
 ---
 
-1. **Value**. 
-We believe that each perosn has intrinsic value and this value remains regardless of anything external they may or may not have.
+### 1. Intrinsic value
 
-2. **Angel not ape.**
-Each person is more like a lower angel than a higher ape. No matter how high man is placed on the animal hierarchy, we disagree entirely with the view of a human being as an animal. Man is spirit and flesh.
+<p> We believe that each person has intrinsic value and this value remains regardless of anything external they may or may not have.</p>
+<br>
 
-3. **Emotions are valid.**
-Every human emotion is valid. No matter how you feel, you can use it as a force for good.
+### 2. Angel not ape
 
-4. **The world within**
-Every person bears a world within him. Along with being invaluable, each person alive has an opportunity to contribute around him wherever he may be.
+<p>Each person is more like a lower angel than a higher ape. No matter how high man is placed on the animal hierarchy, we disagree entirely with the view of a human being as an animal. Man is spirit and flesh.</p>
+<br>
 
-5. **Courage**
-Courage is the cost and reward of being alive, really alive. The cost of doing great things is courage. And the good news is not only that it is free but also the seed of courage is already inside you.
+### 3. Emotions are valid
 
-6. **Humility is more**
-In all its forms, humility is what enables people to undertake great things. Intellectual, emotional, spiritual humility have been forces for change the world over, since the beginning of time.
+<p>Every human emotion is valid. No matter how you feel, you can use it as a force for good.
+</p>
+<br>
 
-7. **Action**
-We believe that action speaks when words are silent, that each person is an actor in his life, and by exercising our power through positive action we can demand better from ourselves and expect same from others. That is how we raise the standards and quality of life around us.
+### 4. The world within
+
+<p>Every person bears a world within him. Along with being invaluable, each person alive has an opportunity to contribute around him wherever he may be.
+</p>
+<br>
+
+### 5. Courage
+
+<p>Courage is the cost and reward of being alive, really alive. The cost of doing great things is courage. And the good news is not only that it is free but also the seed of courage is already inside you.</p>
+<br>
+
+### 6. Humility is more
+
+<p>In all its forms, humility is what enables people to undertake great things. Intellectual, emotional, spiritual humility have been forces for change the world over, since the beginning of time.
+</p>
+<br>
+
+### 7. Action
+
+<p>We believe that action speaks when words are silent, that each person is an actor in his life, and by exercising our power through positive action we can demand better from ourselves and expect same from others. That is how we raise the standards and quality of life around us.</p>

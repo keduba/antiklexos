@@ -1,33 +1,38 @@
 ---
-title: "" 
-subtitle: "Turn the chains on your feet to wings on your back"
-description: "Become who you always wanted to be" 
+pagetitle: "antiklexos" 
+page-layout: custom
 format:
   html:
     toc: false
-about:
-  id: about
-  template: trestles
-  image: "4-blue-sm.png"
-  links:
-    - icon: book
-      text: Blog
-      href: posts.qmd
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+image: timon-unsplash.jpg
+
 ---
 
-::: {#about}
+::: {.content-block}
 
-Did you know that *antiklexos* is the opposite of *klexos*.
+::: {.hero .section .column}
+::: {.hero }
+  <h1>Turn memories into superpowers</h1>
+  <br>
+  <h3>without changing your routine.</h3>
+  <br>
+  <p>
+  Transform the memories that held you back into insights for personal and professional growth so you can finally become the person you always wanted to be.
+  </p>
+  <br>
 
-> Klexos is a Greek word that means «fixation on the past.»
-> This here is antiklexos. We represent all that is opposed to this fixation so that you
-> live in a present full of adventure.
+::: {.hero-buttons}
+[Learn more](workshop-details.qmd){#btn-workshop .btn-action-primary .btn-action .btn .btn-primary .btn-lg role="button"}
+:::
+
+:::
+
+::: {.hero .col-6}
+![Photo by Timon at Unsplash](timon-unsplash.jpg "happy and free")
+:::
+
+:::
+
 
 <h3 style="text-align: center;">I'd like to join the workshop waitlist</h3>
 <iframe
@@ -35,47 +40,111 @@ scrolling="no"
 style="width:100%!important;height:220px;border:1px #ccc solid !important"
 src="https://buttondown.email/antiklexos?as_embed=true"
 title="antiKlexos iframe"  
-></iframe><br /><br />
+></iframe>
+
+### klexos
+n. _/kleks-ohs/_ (origin, Greek) <br>
+1. The art of dwelling on the past. <br>From klecksography, which is the art of making images from inkblots, famously used in Rorschach psychoanalytic tests. Interpreting their ambiguity is thought to illuminate the subconscious of the patient. <br>Source: [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/concept/klexos) 
+
+### antiklexos
+n. _/antikleksos/_ (origin, English, Greek) <br> 
+1. opposite of klexos. The use of practical techniques and tools based on sound first principles to stop being fixated on the past and things you cannot change. <br>
+2. turning the memories that you were fixated on into sources of inspiration for big achievements.
+
+
+::: {.features}
+::: {.feature .card  .mb-3}
+::: {.card-body}
+
+### Do all you've always wanted
+
+Are you frequently stopped in your tracks when you have a new idea to try because you remember the last time you tried and it didn't work?
 :::
+:::
+
+::: {.feature .card  .mb-3}
+::: {.card-body}
+
+### No more second-guessing yourself
+
+Do you do double, triple, quadruple takes before you take a decision because someone you love was afraid to let you try out things on your own?
+:::
+:::
+
+
+::: {.feature .card  .mb-3}
+::: {.card-body}
+
+### Get your time back
+
+Always wondering where time went while you were fending off ghosts of the past?
+:::
+:::
+
+:::
+
+::: {.text-center}
+### Move forward with your life and do the things you've always dreamed of doing. 
+<br>
+<p2>No more doubts. No more double takes. No more if only's.</p2>
+<br>
+:::
+<br>
 
 ::: {.text-center}
 ## Let others tell you themselves ...
 :::
 
-::: {.index-grid}
+::: {.features}
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-start}
+::: {.feature .card  .mb-3}
 ::: {.card-body}
-["This blew my mind. I didn't realise that it was possible to unravel mental barriers like this. antiKlexos is amazing. I'd have said, "I wish I knew this before" but that would be Klexos. 
-antiKlexos has taught me to say, "Thank God I know this now!"]{.card-text}
+### Blew my mind!
+"This blew my mind. I didn't realise that it was possible to unravel mental barriers like this. antiKlexos is amazing. I'd have said, "I wish I knew this before" but that would be Klexos. 
+antiKlexos has taught me to say, "Thank God I know this now!
 
 [Chinnie, Nurse-Administrator]{.blockquote-footer}
 :::
 :::
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-justify}
-::: {.card-body}
+::: {.feature .card  .mb-3}
+::: {.card-body .border-light .mb-3}
+### Darn slick!
 "I've personally benefitted from his way of questioning things from the reverse and I'm glad to say that I appreciate how he codified it in antiKlexos. It's pretty darn slick! 🔥"
 
 [Manola, PhD Oceanography]{.blockquote-footer}
 :::
 :::
 
-::: {.index-g-col-4 .card .border-light .mb-3 .text-end}
+::: {.feature .card  .mb-3}
 ::: {.card-body}
+### Move forward!
 "Now whether you're at home or at work or on retreat on a remote island, antiKlexos provides you a custom way to shed the past and move forward like the child of Light that you are."
 
 [Presh, Strategic Communications]{.blockquote-footer}
 :::
 :::
-
-::: {.index-g-col-4 .card .border-light .mb-3 .text-end}
-::: {.card-body}
-"Trust Kene to track how he overcame his own challenges in such a way that other people can benefit from the same process in the comfort of their own spaces."
-
-[James, Amazon Logistics]{.blockquote-footer}
-:::
 :::
 
+<br>
+
+::: {.text-center}
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/antiklexos"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/antiklexos', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <h2 style="text-align: center;">I want to join the waitlist</h2>
+  <label for="bd-email">Email address
+  </label><br> 
+  <input type="email" name="email" id="bd-email" placeholder="you@youremail.com"/>
+  <br><input type="submit" value="Add me up" />
+    <br><p>
+    <a href="https://buttondown.email/refer/antiklexos" target="_blank">❤️from Buttondown.</a>
+  </p>
+</form>
 :::
 
+:::
