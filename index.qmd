@@ -141,9 +141,6 @@ antiKlexos has taught me to say, "Thank God I know this now!
   </label><br> 
   <input type="email" name="email" id="bd-email" placeholder="you@youremail.com"/>
   <br><input type="submit" value="Add me up" />
-    <br><p>
-    <a href="https://buttondown.email/refer/antiklexos" target="_blank">❤️from Buttondown.</a>
-  </p>
 </form>
 :::
 

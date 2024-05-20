@@ -26,9 +26,7 @@ Please remember to sign up right here. It's very simple and easy. :)
   </label><br> 
   <input type="email" name="email" id="bd-email" placeholder="you@youremail.com"/>
   <br><input type="submit" value="Add me up" />
-    <br><p>
-    <a href="https://buttondown.email/refer/antiklexos" target="_blank">❤️from Buttondown.</a>
-  </p>
+    <br>
 </form>
 :::
 
